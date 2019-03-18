@@ -1,0 +1,4 @@
+this is list1 of master branch
+Now updating list1 contents and merging to backup branch
+1. logging to backup branch and merging
+2. or directly merge from master to branch using rebase command instead of logging to backup branch
